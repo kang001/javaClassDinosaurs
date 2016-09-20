@@ -5,6 +5,6 @@ package com.Kara;
  */
 public class Dinosaur {
     public void roar(){
-        System.out.println("GRRR!!!!");
+        System.out.println("ROAR!!!!!!!");
     }
 }
